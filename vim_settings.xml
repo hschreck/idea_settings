@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498398217633">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="5" />
-        <mark key="." line="43" column="6" />
+      <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498399340194">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -15,8 +15,19 @@
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>when: mysql_new_root_pass.changd</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgd2hlbjogbXlzcWxfbmV3X3Jvb3RfcGFzcy5jaGFuZ2QK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd2hlbjogbXlzcWxfbmV3X3Jvb3RfcGFzcy5jaGFuZ2QK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>- name: Create my.cnf
+      template: src=templates/mysql/my.cnf dest=/root/.my.cnf
+      when: mysql_new_root_pass.changd</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
