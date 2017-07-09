@@ -15,44 +15,56 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
+      <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499581272058">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>running</text>
+        <text>Navbar</text>
       </register>
       <register name="-" type="4">
-        <text>running</text>
+        <text>Navbar</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogUmVtb3ZlIE15U3FsIHRlc3QgREIKICAgICAgbXlzcWxfZGI6IG5hbWU9dGVzdCBzdGF0ZT1hYnNlbnQKICAgICAgd2hlbjogbXlzcWxfbmV3X3Jvb3RfcGFzcy5jaGFuZ2QKICAgIC0gbmFtZTogVXBkYXRlIE15U1FMIFJvb3QgUFcKICAgICAgbXlzcWxfdXNlcjogbmFtZT1yb290IGhvc3Q9e3tpdGVtfX0gcGFzc3dvcmQ9e3tteXNxbF9uZXdfcm9vdF9wYXNzLnN0ZG91dH19CiAgICAgIHdpdGhfaXRlbXM6CiAgICAgICAgLSAie3sgYW5zaWJsZV9ob3N0bmFtZSB9fSIKICAgICAgICAtIDEyNy4wLjAuMQogICAgICAgIC0gOjoxCiAgICAgICAgLSBsb2NhbGhvc3QKICAgICAgd2hlbjogbXlzcWxfbmV3X3Jvb3RfcGFzcy5jaGFuZ2QKICAgIC0gbmFtZTogU3RhcnQgbmdpbngKICAgICAgc2VydmljZTogbmFtZT1uZ2lueCBzdGF0ZT1ydW5uaW5nCiAgICAtIG5hbWU6IENyZWF0ZSBteS5jbmYKICAgICAgdGVtcGxhdGU6IHNyYz10ZW1wbGF0ZXMvbXlzcWwvbXkuY25mIGRlc3Q9L3Jvb3QvLm15LmNuZgogICAgICB3aGVuOiBteXNxbF9uZXdfcm9vdF9wYXNzLmNoYW5nZAogICAgLSBuYW1lOiBPdXRwdXQgbmV3IHJvb3QgUFcKICAgICAgZGVidWc6IG1zZz0iTmV3IFJvb3QgUFcgaXMge3tteXNxbF9uZXdfcm9vdF9wYXNzLnN0ZG91dH19IgogICAgICB3aGVuOiBteXNxbF9uZXdfcm9vdF9wYXNzLmNoYW5nZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2hlbjogbXlzcWxfbmV3X3Jvb3RfcGFzcy5jaGFuZ2QK</text>
+        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWxfdXNlcjogbmFtZT0iIiBzdGF0ZT1hYnNlbnQK</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogUmVtb3ZlIGFub255bW91cyBNeVNRTCB1c2Vycwo=</text>
+        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2hlbjogbm90IG15c3FsX25ld19yb290X3Bhc3MuY2hhbmdlZAo=</text>
+        <text encoding="base64">KSAlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gZGVidWc6IG1zZz0iTm8gY2hhbmdlIHRvIHJvb3QgcGFzc3dvcmQiCg==</text>
+        <text encoding="base64">ICB0YXJnZXQ6ICJfYmxhbmsiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaHR0cHM6Ly9taWRkbGVtYW5hcHAuY29tL2Jhc2ljcy90ZW1wbGF0aW5nX2xhbmd1YWdlLyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG15c3FsX25ld19yb290X3Bhc3MK</text>
+        <text encoding="base64">ICAiUmVhZCBEb2N1bWVudGF0aW9uIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZDogb3BlbnNzbCByYW5kIC1oZXggNyBjcmVhdGVzPS9yb290Ly5teS5jbmYK</text>
+        <text encoding="base64">PCU9IGxpbmtfdG8oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
