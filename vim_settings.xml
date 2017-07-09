@@ -21,17 +21,17 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499581272058">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>Navbar</text>
+        <text encoding="base64">PAogICAg</text>
       </register>
       <register name="-" type="4">
         <text>Navbar</text>
@@ -39,32 +39,32 @@
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PAogICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
+        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KSAlPgo=</text>
+        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0YXJnZXQ6ICJfYmxhbmsiCg==</text>
+        <text encoding="base64">KSAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiaHR0cHM6Ly9taWRkbGVtYW5hcHAuY29tL2Jhc2ljcy90ZW1wbGF0aW5nX2xhbmd1YWdlLyIsCg==</text>
+        <text encoding="base64">ICB0YXJnZXQ6ICJfYmxhbmsiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiUmVhZCBEb2N1bWVudGF0aW9uIiwK</text>
+        <text encoding="base64">ICAiaHR0cHM6Ly9taWRkbGVtYW5hcHAuY29tL2Jhc2ljcy90ZW1wbGF0aW5nX2xhbmd1YWdlLyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCU9IGxpbmtfdG8oCg==</text>
+        <text encoding="base64">ICAiUmVhZCBEb2N1bWVudGF0aW9uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
