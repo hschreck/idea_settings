@@ -15,17 +15,32 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
+      <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Python/Chapter_3/notes.md" timestamp="1501079889703">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
         <mark key="[" line="28" column="27" />
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/Python/.gitignore" timestamp="1501079663499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
     </filemarks>
     <jumps />
