@@ -9,8 +9,11 @@
         <mark key="^" line="87" column="18" />
         <mark key="." line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501184916679">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501188015613">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="53" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="53" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
@@ -54,20 +57,20 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501185318602">
-        <mark key="[" line="87" column="45" />
-        <mark key="]" line="93" column="50" />
-        <mark key="." line="93" column="50" />
-        <mark key="^" line="93" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501187260397">
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="75" column="33" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>700</text>
+        <text>testChainring</text>
       </register>
       <register name="-" type="4">
-        <text>700</text>
+        <text>testChainring</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
