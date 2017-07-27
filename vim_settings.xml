@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501169458492">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="2" column="53" />
@@ -48,8 +54,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PAogICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
       </register>
       <register name="-" type="4">
         <text>Navbar</text>
@@ -57,32 +63,32 @@
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRDUFUoc2VsZiwgY3B1KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jcHUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRDUFUoc2VsZik6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KSAlPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PAogICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YXJnZXQ6ICJfYmxhbmsiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaHR0cHM6Ly9taWRkbGVtYW5hcHAuY29tL2Jhc2ljcy90ZW1wbGF0aW5nX2xhbmd1YWdlLyIsCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiUmVhZCBEb2N1bWVudGF0aW9uIiwK</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
