@@ -51,44 +51,50 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501182101363">
+        <mark key="[" line="87" column="45" />
+        <mark key="]" line="93" column="50" />
+        <mark key="." line="93" column="50" />
+        <mark key="^" line="93" column="50" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>700</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>700</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRDUFUoc2VsZiwgY3B1KToK</text>
+        <text encoding="base64">ICAgIHJpbV9kaWFtZXRlciA9IDcwMAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jcHUK</text>
+        <text encoding="base64">ICAgIHJlYXJfZ2VhcnMgPSA3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRDUFUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgIGZyb250X2dlYXJzID0gMgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PAogICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRDUFUoc2VsZiwgY3B1KToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBOYXZiYXIgY29udGVudCAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItaW52ZXJzZSBiZy1pbnZlcnNlIj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jcHUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
