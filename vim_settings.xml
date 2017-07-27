@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501169458492">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501172765134">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
@@ -54,11 +54,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>Navbar</text>
+        <text>x</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
