@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501172765134">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="24" />
-        <mark key="^" line="36" column="24" />
-        <mark key="." line="36" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+        <mark key="." line="87" column="18" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
