@@ -3,23 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
-        <mark key="[" line="92" column="26" />
-        <mark key="]" line="87" column="18" />
-        <mark key="^" line="87" column="18" />
-        <mark key="." line="87" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="93" column="72" />
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
-      </file>
-      <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
       </file>
       <file name="$USER_HOME$/crossbar/Vagrantfile" timestamp="1501296062379">
         <mark key="[" line="69" column="59" />
@@ -33,17 +21,8 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501322643295">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/crossbar/crossbar.sh" timestamp="1501341221565">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
@@ -56,6 +35,30 @@
         <mark key="]" line="35" column="16" />
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+      </file>
+      <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501341208646">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="5" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
         <mark key="[" line="28" column="27" />
