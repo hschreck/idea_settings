@@ -21,6 +21,12 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/crossbar/Vagrantfile" timestamp="1501296062379">
+        <mark key="[" line="69" column="59" />
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="36" />
+      </file>
       <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498415767402">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="50" column="26" />
@@ -32,6 +38,12 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501298663729">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="40" column="13" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
@@ -67,10 +79,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>base</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>base</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
