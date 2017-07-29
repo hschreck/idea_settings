@@ -39,11 +39,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501298663729">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="40" column="13" />
-        <mark key="^" line="40" column="13" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501322643295">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
@@ -78,8 +78,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>base</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>base</text>
@@ -88,31 +88,31 @@
         <text>when: mysql_new_root_pass.changd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJpbV9kaWFtZXRlciA9IDcwMAo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogVQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlYXJfZ2VhcnMgPSA3Cg==</text>
+        <text encoding="base64">ICAgIHJpbV9kaWFtZXRlciA9IDcwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb250X2dlYXJzID0gMgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRDUFUoc2VsZiwgY3B1KToK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlYXJfZ2VhcnMgPSA3Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZyb250X2dlYXJzID0gMgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNwdSA9IGNwdQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jcHUK</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRDUFUoc2VsZiwgY3B1KToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
