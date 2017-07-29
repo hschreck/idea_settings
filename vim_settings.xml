@@ -15,6 +15,12 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/PyTest/test.py" timestamp="1501346292178">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498415767402">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="50" column="26" />
@@ -71,6 +77,12 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/RedPy/red.py" timestamp="1501348022777">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="61" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="15" />
@@ -81,40 +93,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGRpcjogL2hvbWUvdmFncmFudC9jcm9zc2Jhci1zdGFydGVyL2Nyb3NzYmFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>command</text>
+        <text>]</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGRpcjogL2hvbWUvdmFncmFudC9jcm9zc2Jhci1zdGFydGVyL2Nyb3NzYmFyCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXJnczoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2hlbGw6IG1ha2Ugc3RhcnQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogU3RhcnQgY3Jvc3NiYXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0OiBjcm9zc2Jhci5zaAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHVibGlzaGVkIGEgbWVzc2FnZSIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdCkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBtZXNzYWdlID0gaW5wdXQoJ1NlbmQgYSBtZXNzYWdlJykKICAgICAgICAgICAgc2VsZi5wdWJsaXNoKHUnY29tLnJlZHB5LmFsbCcsIG1lc3NhZ2UpCiAgICAgICAgICAgIHlpZWxkIHNsZWVwKDAuMDAxKQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogVQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IGlucHV0KCdTZW5kIGEgbWVzc2FnZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICBjaGRpcjogL2hvbWUvdmFncmFudC9jcm9zc2Jhci1zdGFydGVyL2Nyb3NzYmFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJpbV9kaWFtZXRlciA9IDcwMAo=</text>
+        <text encoding="base64">ICAgICAgYXJnczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -132,7 +144,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
