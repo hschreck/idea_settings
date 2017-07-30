@@ -21,6 +21,12 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/crossbar/hosts/inventory" timestamp="1501426286768">
+        <mark key="[" line="1" column="107" />
+        <mark key="]" line="1" column="114" />
+        <mark key="." line="1" column="114" />
+        <mark key="^" line="1" column="114" />
+      </file>
       <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498415767402">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="50" column="26" />
@@ -60,10 +66,17 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501342188342">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501427009459">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/crossbar/.vagrant/hosts/inventory" timestamp="1501425673789">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
         <mark key="[" line="28" column="27" />
@@ -92,11 +105,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>vagrant</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>vagrant</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
