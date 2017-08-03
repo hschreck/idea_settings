@@ -3,14 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/smartmontools/tasks/main.yml" timestamp="1501782605869">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="93" column="72" />
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/up2date/tasks/main.yml" timestamp="1501778602025">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/up2date/tasks/main.yml" timestamp="1501782251855">
+        <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
@@ -39,8 +45,20 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/lemon.py" timestamp="1501784429313">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/crossbar/crossbar.sh" timestamp="1501341221565">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/lemon.py" timestamp="1501784272095">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
@@ -60,11 +78,11 @@
         <mark key="^" line="87" column="18" />
         <mark key="." line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/playbook.yml" timestamp="1501778376961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/playbook.yml" timestamp="1501782408889">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
         <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
@@ -108,6 +126,12 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/python3_6/tasks/main.yml" timestamp="1501782581333">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="15" />
@@ -118,40 +142,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>vagrant</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>vagrant</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwZ3JhZGU6IGZ1bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUHVibGlzaGVkIGEgbWVzc2FnZSIpCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHVibGlzaGVkIGEgbWVzc2FnZSIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBtZXNzYWdlID0gaW5wdXQoJ1NlbmQgYSBtZXNzYWdlJykKICAgICAgICAgICAgc2VsZi5wdWJsaXNoKHUnY29tLnJlZHB5LmFsbCcsIG1lc3NhZ2UpCiAgICAgICAgICAgIHlpZWxkIHNsZWVwKDAuMDAxKQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IGlucHV0KCdTZW5kIGEgbWVzc2FnZScpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdCkK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBtZXNzYWdlID0gaW5wdXQoJ1NlbmQgYSBtZXNzYWdlJykKICAgICAgICAgICAgc2VsZi5wdWJsaXNoKHUnY29tLnJlZHB5LmFsbCcsIG1lc3NhZ2UpCiAgICAgICAgICAgIHlpZWxkIHNsZWVwKDAuMDAxKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGRpcjogL2hvbWUvdmFncmFudC9jcm9zc2Jhci1zdGFydGVyL2Nyb3NzYmFyCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXJnczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IGlucHV0KCdTZW5kIGEgbWVzc2FnZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
