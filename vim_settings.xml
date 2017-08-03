@@ -60,6 +60,12 @@
         <mark key="^" line="98" column="74" />
         <mark key="." line="98" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/queuequeue/queuequeue.py" timestamp="1501793051987">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="4" column="26" />
@@ -154,10 +160,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>int(os.environ['TEST_TIME'])</text>
+        <text>2048</text>
       </register>
       <register name="-" type="4">
-        <text>int(os.environ['TEST_TIME'])</text>
+        <text>2048</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
@@ -194,11 +203,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDwpXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
