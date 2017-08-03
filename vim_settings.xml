@@ -3,35 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/smartmontools/tasks/main.yml" timestamp="1501782605869">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="93" column="72" />
-        <mark key="^" line="93" column="72" />
-        <mark key="." line="93" column="72" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/up2date/tasks/main.yml" timestamp="1501782251855">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/crossbar/Vagrantfile" timestamp="1501296062379">
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="72" column="36" />
-        <mark key="." line="72" column="36" />
-        <mark key="^" line="72" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/PyTest/test.py" timestamp="1501346292178">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/crossbar/hosts/inventory" timestamp="1501426286768">
         <mark key="[" line="1" column="107" />
@@ -45,20 +21,14 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/lemon.py" timestamp="1501784429313">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/lemon.py" timestamp="1501785511137">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/crossbar/crossbar.sh" timestamp="1501341221565">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/lemon.py" timestamp="1501784272095">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="9" column="45" />
-        <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="45" />
       </file>
       <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
         <mark key="[" line="2" column="3" />
@@ -84,11 +54,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/smartctl" timestamp="1501785527874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="98" column="74" />
+        <mark key="^" line="98" column="74" />
+        <mark key="." line="98" column="74" />
       </file>
       <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
         <mark key="[" line="6" column="12" />
@@ -96,23 +66,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501427009459">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-      </file>
       <file name="$USER_HOME$/crossbar/.vagrant/hosts/inventory" timestamp="1501425673789">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Python/.gitignore" timestamp="1501079663499">
         <mark key="[" line="0" column="0" />
@@ -132,6 +90,59 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/smartmontools/tasks/main.yml" timestamp="1501782605869">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="93" column="72" />
+        <mark key="^" line="93" column="72" />
+        <mark key="." line="93" column="72" />
+      </file>
+      <file name="$USER_HOME$/crossbar/Vagrantfile" timestamp="1501296062379">
+        <mark key="[" line="69" column="59" />
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PyTest/test.py" timestamp="1501346292178">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/lemon.py" timestamp="1501784272095">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/meringue/lemon.py" timestamp="1501786047399">
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501427009459">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/hmschreck/source/layouts/layout.erb" timestamp="1499582026256">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="15" />
@@ -142,7 +153,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRTbWFydERhdGEoc2VsZik6CiAgICAgICAgcnVuID0gc3VicHJvY2Vzcy5Qb3BlbihmInN1ZG8gc21hcnRjdGwgLS10ZXN0IHtzZWxmLmJsb2NrRGV2fSIsIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgc21hcnRkYXRhID0gcnVuLnN0ZG91dC5yZWFkKCkKICAgICAgICByZXR1cm4gc21hcnRkYXRh</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -150,32 +161,32 @@
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVwZ3JhZGU6IGZ1bGwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZXRTbWFydERhdGEoc2VsZik6CiAgICAgICAgcnVuID0gc3VicHJvY2Vzcy5Qb3BlbihmInN1ZG8gc21hcnRjdGwgLS10ZXN0IHtzZWxmLmJsb2NrRGV2fSIsIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgc21hcnRkYXRhID0gcnVuLnN0ZG91dC5yZWFkKCkKICAgICAgICByZXR1cm4gc21hcnRkYXRh</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
+        <text encoding="base64">ICAgIHVwZ3JhZGU6IGZ1bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUHVibGlzaGVkIGEgbWVzc2FnZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHVibGlzaGVkIGEgbWVzc2FnZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdCkK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBtZXNzYWdlID0gaW5wdXQoJ1NlbmQgYSBtZXNzYWdlJykKICAgICAgICAgICAgc2VsZi5wdWJsaXNoKHUnY29tLnJlZHB5LmFsbCcsIG1lc3NhZ2UpCiAgICAgICAgICAgIHlpZWxkIHNsZWVwKDAuMDAxKQ==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdCkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBtZXNzYWdlID0gaW5wdXQoJ1NlbmQgYSBtZXNzYWdlJykKICAgICAgICAgICAgc2VsZi5wdWJsaXNoKHUnY29tLnJlZHB5LmFsbCcsIG1lc3NhZ2UpCiAgICAgICAgICAgIHlpZWxkIHNsZWVwKDAuMDAxKQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IGlucHV0KCdTZW5kIGEgbWVzc2FnZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1Ymxpc2godSdjb20ucmVkcHkuYWxsJywgIkxvb2shICBBIHRoaW5nISIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
