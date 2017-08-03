@@ -120,10 +120,11 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HDDTest/meringue/lemon.py" timestamp="1501786047399">
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/meringue/lemon.py" timestamp="1501789390382">
+        <mark key="[" line="50" column="114" />
+        <mark key="]" line="41" column="128" />
+        <mark key="^" line="41" column="128" />
+        <mark key="." line="41" column="128" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
@@ -153,10 +154,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGRlZiBnZXRTbWFydERhdGEoc2VsZik6CiAgICAgICAgcnVuID0gc3VicHJvY2Vzcy5Qb3BlbihmInN1ZG8gc21hcnRjdGwgLS10ZXN0IHtzZWxmLmJsb2NrRGV2fSIsIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgc21hcnRkYXRhID0gcnVuLnN0ZG91dC5yZWFkKCkKICAgICAgICByZXR1cm4gc21hcnRkYXRh</text>
+        <text>int(os.environ['TEST_TIME'])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int(os.environ['TEST_TIME'])</text>
       </register>
       <register name="0" type="4">
         <text>when: mysql_new_root_pass.changd</text>
