@@ -54,6 +54,9 @@
         <mark key="^" line="87" column="18" />
         <mark key="." line="87" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/HDDTest/playbook.yml" timestamp="1501777476375">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="2" column="53" />
