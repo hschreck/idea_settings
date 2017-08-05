@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mentoras/app/views/mentoras/home.html.erb" timestamp="1501905320634">
-        <mark key="[" line="2" column="119" />
-        <mark key="]" line="6" column="88" />
-        <mark key="." line="6" column="88" />
-        <mark key="^" line="6" column="88" />
+      <file name="$USER_HOME$/mentoras/app/views/mentoras/home.html.erb" timestamp="1501949978912">
+        <mark key="[" line="4" column="179" />
+        <mark key="]" line="4" column="180" />
+        <mark key="." line="4" column="180" />
+        <mark key="^" line="4" column="180" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/up2date/tasks/main.yml" timestamp="1501782251855">
         <mark key="[" line="3" column="17" />
@@ -112,11 +112,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501906748597">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="57" />
-        <mark key="." line="3" column="57" />
+      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501950419365">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="56" />
+        <mark key="." line="1" column="56" />
+        <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/mentoras/Gemfile" timestamp="1501908932020">
         <mark key="'" line="27" column="20" />
@@ -149,7 +149,7 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501906721678">
+      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501950004149">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="10" column="33" />
@@ -203,11 +203,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/mentoras/config/database.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>db</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SGV5LCB0aGFua3MgZm9yIHZvbHVudGVlcmluZyB0byBiZSBhIG1lbnRvciEgIE1lbnRvcmFzIGlzbid0IGZ1bmN0aW9uYWwgeWV0LCBidXQgaWYgeW91IGxlYXZlIHlvdXIgY29udGFjdCBpbmZvIEknbGwgbGV0IHlvdSBrbm93IGFzIHNvb24gYXMgaXQncyByZWFkeSB0byBsYXVuY2ghCg==</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>Be</text>
       </register>
       <register name="/" type="4">
         <text>sqlite3</text>
@@ -216,31 +216,31 @@
         <text encoding="base64">PCU9IGZvcm1fZm9yIEBtZW50b3IsIHVybDogdXJsX2ZvcihhY3Rpb246ICduZXdfbWVudG9yJykgZG8gfGZ8ICU+CiAgPCU9IGxhYmVsX3RhZyg6bmFtZSwgIk5hbWUiKSAlPgogIDwlPSBmLnRleHRfZmllbGQgOm5hbWUgJT4KICA8JT0gbGFiZWxfdGFnKDpsb2NhdGlvbiwgIkxvY2F0aW9uIikgJT4KICA8JT0gZi50ZXh0X2ZpZWxkIDpsb2NhdGlvbiAlPgogIDwlPSBsYWJlbF90YWcoOmRlc2NyaXB0aW9uLCAiQWJvdXQgeW91IikgJT4KICA8JT0gZi50ZXh0X2FyZWEgOmRlc2NyaXB0aW9uICU+CiAgPCU9IGxhYmVsX3RhZyg6ZW1haWwsICJFbWFpbCIpJT4KICA8JT0gZi5lbWFpbF9maWVsZCA6ZW1haWwgJT4KICA8JT0gZi5zdWJtaXQgIkNvbnRhY3QgbWUhIiAlPgo8JSBlbmQgJT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+        <text encoding="base64">SGV5LCB0aGFua3MgZm9yIHZvbHVudGVlcmluZyB0byBiZSBhIG1lbnRvciEgIE1lbnRvcmFzIGlzbid0IGZ1bmN0aW9uYWwgeWV0LCBidXQgaWYgeW91IGxlYXZlIHlvdXIgY29udGFjdCBpbmZvIEknbGwgbGV0IHlvdSBrbm93IGFzIHNvb24gYXMgaXQncyByZWFkeSB0byBsYXVuY2ghCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBtZW50b3JlZCAK</text>
+        <text encoding="base64">PHA+RmluZCBtZSBpbiBhcHAvdmlld3MvbWVudG9yYXMvbWVudG9yZWQuaHRtbC5lcmI8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">PGgxPk1lbnRvcmFzI21lbnRvcmVkPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5yZXF1aXJlKFs6bmFtZSwgOmVtYWlsLCA6ZGVzY3JpcHRpb25dKS5wZXJtaXQoOmRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcGFyYW1zX3RoaW5nCg==</text>
+        <text encoding="base64">ICAgIEBtZW50b3JlZCAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGgxPk1lbnRvcmFzI21lbnRvcjwvaDE+CjxwPkZpbmQgbWUgaW4gYXBwL3ZpZXdzL21lbnRvcmFzL21lbnRvci5odG1sLmVyYjwvcD4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZ2V0ICdtZW50b3Jhcy9ob21lJwoKICBnZXQgJ21lbnRvcmFzL21lbnRvcicgPT4gJy9tZW50b3InCgogIGdldCAnbWVudG9yYXMvbWVudG9yZWQnID0+ICcvbWVudG9yZWQn</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcy5yZXF1aXJlKFs6bmFtZSwgOmVtYWlsLCA6ZGVzY3JpcHRpb25dKS5wZXJtaXQoOmRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPk1lbnRvcmFzI2hvbWU8L2gxPgo=</text>
+        <text encoding="base64">ICBkZWYgcGFyYW1zX3RoaW5nCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PHA+RmluZCBtZSBpbiBhcHAvdmlld3MvbWVudG9yYXMvaG9tZS5odG1sLmVyYjwvcD4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGgxPk1lbnRvcmFzI21lbnRvcjwvaDE+CjxwPkZpbmQgbWUgaW4gYXBwL3ZpZXdzL21lbnRvcmFzL21lbnRvci5odG1sLmVyYjwvcD4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
