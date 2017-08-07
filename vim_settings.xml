@@ -70,12 +70,12 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" timestamp="1502116622591">
+      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" timestamp="1502117579855">
         <mark key="'" line="17" column="19" />
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="47" column="4" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="4" />
+        <mark key="[" line="54" column="1" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/smartctl" timestamp="1501785527874">
         <mark key="[" line="0" column="0" />
@@ -215,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQ29uc3RydWN0b3IgZm9yIFNDUmVxdWVzdENsaWVudCB0YWtlcyBsb2NhdGlvbiBvZiBXU0RMIGZpbGUgYXMgYSBzdHJpbmcsIGFzIHdlbGwgYXMgdGhlIHVzZXJuYW1lIGFuZCBwYXNzd29yZAogICAgICogYXNzb2NpYXRlZCB3aXRoIHRoZSBhY2NvdW50LgogICAgICov</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>sqlite3</text>
