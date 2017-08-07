@@ -104,6 +104,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/dev/vagrant/vagrant_vars.rb" timestamp="1502123059437">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/crossbar/.vagrant/hosts/inventory" timestamp="1501425673789">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="24" />
