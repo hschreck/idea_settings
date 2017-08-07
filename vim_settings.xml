@@ -86,11 +86,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/composer.json" timestamp="1502130745099">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/composer.json" timestamp="1502131258952">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="76" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/smartctl" timestamp="1501785527874">
         <mark key="[" line="0" column="0" />
@@ -248,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>sqlite3</text>
