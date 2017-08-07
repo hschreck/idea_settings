@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/scratch" timestamp="1502136164245">
+        <mark key="'" line="0" column="2531" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="92" />
+        <mark key="^" line="0" column="2621" />
+        <mark key="." line="0" column="2621" />
+      </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/home.html.erb" timestamp="1501949978912">
         <mark key="[" line="4" column="179" />
         <mark key="]" line="4" column="180" />
@@ -62,11 +69,10 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502134033121">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502136214928">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/mentoras/config/database.yml" timestamp="1501909051737">
         <mark key="'" line="0" column="0" />
@@ -240,6 +246,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/scservice.xml" timestamp="1502135684729">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2622" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="15" />
@@ -251,57 +262,58 @@
       <jump line="28" column="20" filename="$USER_HOME$/mentoras/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/mentoras/config/database.yml" />
       <jump line="17" column="19" filename="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" />
+      <jump line="0" column="2531" filename="$USER_HOME$/Downloads/scratch" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vd3d3LmJ2c29mdHdhcmUuY29tL2J2YzIwMDQvc2NoZW1hcy8yMDA0LzA1LzE3L01lbWJlcnNoaXAvVXNlckFjY291bnQnOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>xmlns:s19=&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sqlite3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCU9IGZvcm1fZm9yIEBtZW50b3IsIHVybDogdXJsX2ZvcihhY3Rpb246ICduZXdfbWVudG9yJykgZG8gfGZ8ICU+CiAgPCU9IGxhYmVsX3RhZyg6bmFtZSwgIk5hbWUiKSAlPgogIDwlPSBmLnRleHRfZmllbGQgOm5hbWUgJT4KICA8JT0gbGFiZWxfdGFnKDpsb2NhdGlvbiwgIkxvY2F0aW9uIikgJT4KICA8JT0gZi50ZXh0X2ZpZWxkIDpsb2NhdGlvbiAlPgogIDwlPSBsYWJlbF90YWcoOmRlc2NyaXB0aW9uLCAiQWJvdXQgeW91IikgJT4KICA8JT0gZi50ZXh0X2FyZWEgOmRlc2NyaXB0aW9uICU+CiAgPCU9IGxhYmVsX3RhZyg6ZW1haWwsICJFbWFpbCIpJT4KICA8JT0gZi5lbWFpbF9maWVsZCA6ZW1haWwgJT4KICA8JT0gZi5zdWJtaXQgIkNvbnRhY3QgbWUhIiAlPgo8JSBlbmQgJT4=</text>
+        <text>http://www.bvsoftware.com/bvc2004/schemas/2004/05/17/Catalog/ProductInventoryStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlJldml2ZUlUXFxTZWxsZXJDbG91ZEJ1bmRsZSI6ICJzcmMvUmV2aXZlSVQvU2VsbGVyQ2xvdWRCdW5kbGUiCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vd3d3LmJ2c29mdHdhcmUuY29tL2J2YzIwMDQvc2NoZW1hcy8yMDA0LzA1LzE3L01lbWJlcnNoaXAvVXNlckFjY291bnQnOgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNsYXNzIFNDT3JkZXJzIHsKICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRzY0NsaWVudCkKICAgIHsKICAgICAgICAvKiBSZXF1ZXN0IExpc3Qgb2YgT3JkZXJzCiAgICAgICAgICogQ3JlYXRlIGFycmF5IG9mIG9yZGVyIG51bWJlcnMKICAgICAgICAgKiBNYXAgb3JkZXIgbnVtYmVycyBpbnRvIFNDT3JkZXIgb2JqZWN0cwogICAgICAgICAqIFJldHVybiBhcnJheQogICAgICAgICAqLwogICAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vd3d3LmJ2c29mdHdhcmUuY29tL2J2YzIwMDQvc2NoZW1hcy8yMDA0LzA1LzE3L0NhdGFsb2cvUHJvZHVjdFByb3BlcnR5JzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vd3d3LmJ2c29mdHdhcmUuY29tL2J2YzIwMDQvc2NoZW1hcy8yMDA0LzA1LzE3L0NhdGFsb2cvUHJvZHVjdENob2ljZSc6ICdSZXZpdmVJVFxTZWxsZXJDbG91ZEJ1bmRsZVxUeXBlcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vd3d3LmJ2c29mdHdhcmUuY29tL2J2YzIwMDQvc2NoZW1hcy8yMDA0LzA1LzE3L0NhdGFsb2cvUHJvZHVjdFN0YXR1cyc6ICdSZXZpdmVJVFxTZWxsZXJDbG91ZEJ1bmRsZVxUeXBlcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eG1sbnM6aHR0cD0iaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3NkbC9odHRwLyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eG1sbnM6c29hcD0iaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3NkbC9zb2FwLyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eG1sbnM6c29hcDEyPSJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93c2RsL3NvYXAxMi8iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHNjY2xpZW50Owo=</text>
+        <text encoding="base64">eG1sbnM6dG09Imh0dHA6Ly9taWNyb3NvZnQuY29tL3dzZGwvbWltZS90ZXh0TWF0Y2hpbmcvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHNjY2xpZW50Owo=</text>
+        <text encoding="base64">eG1sbnM6bWltZT0iaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3NkbC9taW1lLyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sqlite3</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>sqlite3</last-pattern>
-      <last-replace>postgresql</last-replace>
-      <last-substitute>sqlite3</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace>\r</last-replace>
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -309,9 +321,13 @@
       <history-search>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>sqlite3</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sqlite3/postgresql/g</entry>
+        <entry>%s/ /\n/g</entry>
+        <entry encoding="base64">dnQ9ciA=</entry>
+        <entry>%s/ /\r/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
