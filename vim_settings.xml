@@ -62,8 +62,11 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502132198989">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502134033121">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/mentoras/config/database.yml" timestamp="1501909051737">
         <mark key="'" line="0" column="0" />
