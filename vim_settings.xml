@@ -69,11 +69,11 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502208871513">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502210166201">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="3" column="110" />
+        <mark key="^" line="3" column="110" />
+        <mark key="." line="3" column="110" />
       </file>
       <file name="$USER_HOME$/mentoras/config/database.yml" timestamp="1501909051737">
         <mark key="'" line="0" column="0" />
@@ -211,6 +211,7 @@
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/soap_api_gdi/bvc_Order.xsd" timestamp="1502210162760" />
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCRequestClient.php" timestamp="1502121388840">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
