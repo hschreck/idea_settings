@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SoapBox/output.py" timestamp="1502308771812" />
       <file name="$USER_HOME$/Downloads/scratch" timestamp="1502136164245">
         <mark key="'" line="0" column="2531" />
         <mark key="[" line="8" column="10" />
@@ -69,11 +70,11 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502294487468">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502309478621">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
-        <mark key="." line="2" column="5" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/mentoras/config/database.yml" timestamp="1501909051737">
         <mark key="'" line="0" column="0" />
