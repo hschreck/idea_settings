@@ -69,11 +69,11 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502290958299">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502291687074">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/mentoras/config/database.yml" timestamp="1501909051737">
         <mark key="'" line="0" column="0" />
@@ -268,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SCServiceSoap/</text>
+        <text>Orders/</text>
       </register>
       <register name="-" type="4">
-        <text>SCServiceSoap/</text>
+        <text>Orders/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
