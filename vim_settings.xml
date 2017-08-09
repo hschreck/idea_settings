@@ -99,11 +99,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/composer.json" timestamp="1502131258952">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/composer.json" timestamp="1502302824690">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
         <mark key="^" line="7" column="76" />
-        <mark key="." line="7" column="33" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/smartctl" timestamp="1501785527874">
         <mark key="[" line="0" column="0" />
@@ -268,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://api.sellercloud.com/</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>http://api.sellercloud.com/</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
