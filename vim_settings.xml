@@ -159,10 +159,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/DD_Homebrew_Drafts/HB_Races/kemonomimi.md" timestamp="1502931880572">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/Documents/DD_Homebrew_Drafts/HB_Races/kemonomimi.md" timestamp="1502932825391">
+        <mark key="[" line="35" column="79" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501950419365">
         <mark key="[" line="1" column="0" />
@@ -278,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>may exhibit different traits.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>may exhibit different traits.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
