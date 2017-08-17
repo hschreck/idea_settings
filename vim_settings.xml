@@ -22,24 +22,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/mentoras/app/controllers/mentoras_controller.rb" timestamp="1501908616736">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/crossbar/hosts/inventory" timestamp="1501426286768">
-        <mark key="[" line="1" column="107" />
-        <mark key="]" line="1" column="114" />
-        <mark key="." line="1" column="114" />
-        <mark key="^" line="1" column="114" />
-      </file>
-      <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498415767402">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="50" column="26" />
-        <mark key="." line="50" column="26" />
-        <mark key="^" line="50" column="26" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/lemon.py" timestamp="1501785511137">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="17" column="3" />
@@ -57,23 +39,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-      </file>
       <file name="$USER_HOME$/Python/Chapter_3/notes.md" timestamp="1501081413579">
         <mark key="[" line="21" column="65" />
         <mark key="]" line="35" column="16" />
         <mark key="^" line="35" column="16" />
         <mark key="." line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudMkII/generate.php" timestamp="1502311652981">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SellerCloud/src/ReviveIT/SellerCloudBundle/Resources/config/xsd_config.yml" timestamp="1502309478621">
         <mark key="[" line="6" column="53" />
@@ -88,17 +58,112 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
-        <mark key="[" line="92" column="26" />
-        <mark key="]" line="87" column="18" />
-        <mark key="^" line="87" column="18" />
-        <mark key="." line="87" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/playbook.yml" timestamp="1501782408889">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/queuequeue/queuequeue.py" timestamp="1501793051987">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloud/dev/vagrant/vagrant_vars.rb" timestamp="1502128248301">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/Python/.gitignore" timestamp="1501079663499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/RedPy/red.py" timestamp="1501348022777">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="61" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501950419365">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="56" />
+        <mark key="." line="1" column="56" />
+        <mark key="^" line="1" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="93" column="72" />
+        <mark key="^" line="93" column="72" />
+        <mark key="." line="93" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PyTest/test.py" timestamp="1501346292178">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCRequestClient.php" timestamp="1502121388840">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/run.php" timestamp="1502121379631">
+        <mark key="[" line="12" column="128" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/scservice.xml" timestamp="1502135684729">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2622" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/mentoras/app/controllers/mentoras_controller.rb" timestamp="1501908616736">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/crossbar/hosts/inventory" timestamp="1501426286768">
+        <mark key="[" line="1" column="107" />
+        <mark key="]" line="1" column="114" />
+        <mark key="." line="1" column="114" />
+        <mark key="^" line="1" column="114" />
+      </file>
+      <file name="$USER_HOME$/Documents/DD_Homebrew_Drafts/HB_Races/Stoneborn.md" timestamp="1502936583992">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/ansible/book/provisioning/playbook.yml" timestamp="1498415767402">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="50" column="26" />
+      </file>
+      <file name="$USER_HOME$/hmschreck/source/index.html.erb" timestamp="1499579770386">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SellerCloudMkII/generate.php" timestamp="1502311652981">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+        <mark key="." line="87" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" timestamp="1502121214398">
         <mark key="[" line="8" column="0" />
@@ -117,41 +182,17 @@
         <mark key="^" line="98" column="74" />
         <mark key="." line="98" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/queuequeue/queuequeue.py" timestamp="1501793051987">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/Python/Chapter_3/a_first_script.py" timestamp="1501079573387">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/dev/vagrant/vagrant_vars.rb" timestamp="1502128248301">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-      </file>
       <file name="$USER_HOME$/crossbar/.vagrant/hosts/inventory" timestamp="1501425673789">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Python/.gitignore" timestamp="1501079663499">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/RedPy/red.py" timestamp="1501348022777">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-        <mark key="." line="24" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/python3_6/tasks/main.yml" timestamp="1501782581333">
         <mark key="[" line="0" column="8" />
@@ -164,12 +205,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501950419365">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="56" />
-        <mark key="." line="1" column="56" />
-        <mark key="^" line="1" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1502121187046">
         <mark key="[" line="0" column="0" />
@@ -187,23 +222,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="93" column="72" />
-        <mark key="^" line="93" column="72" />
-        <mark key="." line="93" column="72" />
-      </file>
       <file name="$USER_HOME$/crossbar/Vagrantfile" timestamp="1501296062379">
         <mark key="[" line="69" column="59" />
         <mark key="]" line="72" column="36" />
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/PyTest/test.py" timestamp="1501346292178">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501950004149">
         <mark key="[" line="3" column="0" />
@@ -222,12 +245,6 @@
         <mark key="]" line="41" column="128" />
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCRequestClient.php" timestamp="1502121388840">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
@@ -252,17 +269,6 @@
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/run.php" timestamp="1502121379631">
-        <mark key="[" line="12" column="128" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/scservice.xml" timestamp="1502135684729">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2622" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
@@ -341,6 +347,7 @@
         <entry>%s/ /\n/g</entry>
         <entry encoding="base64">dnQ9ciA=</entry>
         <entry>%s/ /\r/g</entry>
+        <entry>w stoneborn.md</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
