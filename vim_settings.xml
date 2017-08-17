@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SoapBox/output.py" timestamp="1502308771812" />
       <file name="$USER_HOME$/Downloads/scratch" timestamp="1502136164245">
         <mark key="'" line="0" column="2531" />
         <mark key="[" line="8" column="10" />
@@ -160,6 +159,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/DD_Homebrew_Drafts/HB_Races/kemonomimi.md" timestamp="1502929460220">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentored.html.erb" timestamp="1501950419365">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="56" />
@@ -169,7 +173,6 @@
       <file name="/Dummy.txt" timestamp="1502121187046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudMkII/Resource/Orders_GetData.php" timestamp="1502397578034" />
       <file name="$USER_HOME$/mentoras/Gemfile" timestamp="1501908932020">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="10" column="5" />
@@ -219,7 +222,6 @@
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloud/soap_api_gdi/bvc_Order.xsd" timestamp="1502221715656" />
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCRequestClient.php" timestamp="1502121388840">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -276,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>may exhibit different traits.</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>may exhibit different traits.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
