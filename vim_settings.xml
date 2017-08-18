@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCOrder.php" timestamp="1503076087559">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCOrder.php" timestamp="1503084642510">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/scratch" timestamp="1502136164245">
         <mark key="'" line="0" column="2531" />
@@ -218,6 +218,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCItem.php" timestamp="1503085644729">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/crossbar/.vagrant/hosts/inventory" timestamp="1501425673789">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="24" />
@@ -236,7 +242,7 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503006803955">
+      <file name="/Dummy.txt" timestamp="1503085650469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mentoras/Gemfile" timestamp="1501908932020">
@@ -281,6 +287,12 @@
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCKitItem.php" timestamp="1503086038991">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/crossbar/playbook.yml" timestamp="1501427009459">
         <mark key="[" line="36" column="14" />
