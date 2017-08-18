@@ -21,11 +21,10 @@
         <mark key="." line="4" column="180" />
         <mark key="^" line="4" column="180" />
       </file>
-      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCBaseModel.php" timestamp="1503066183298">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCBaseModel.php" timestamp="1503072282513">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/roles/up2date/tasks/main.yml" timestamp="1501782251855">
         <mark key="[" line="3" column="17" />
@@ -199,11 +198,11 @@
         <mark key="^" line="7" column="76" />
         <mark key="." line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCClient.php" timestamp="1503007098367">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="16" column="81" />
-        <mark key="^" line="16" column="81" />
-        <mark key="." line="16" column="81" />
+      <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCClient.php" timestamp="1503072441775">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/smartctl" timestamp="1501785527874">
         <mark key="[" line="0" column="0" />
@@ -313,11 +312,11 @@
       <jump line="0" column="2531" filename="$USER_HOME$/Downloads/scratch" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>__init__</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>__init__</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -326,31 +325,31 @@
         <text>http://www.bvsoftware.com/bvc2004/schemas/2004/05/17/Catalog/ProductInventoryStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gaW5pdGlhdGUoJGRhdGEpewogICAgICAgIC8qKgogICAgICAgICAqIFBhc3MgaW4gZGF0YSB0byBtYWtlIHJlcXVlc3QKICAgICAgICAgKi8KICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGF0YVsnb3JkZXInXSA9ICRvcmRlcjsgLy9wbGFjZWhvbGRlciB2YXJpYWJsZSBuYW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+ZGF0YSAgICA9ICRkYXRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNldF9vcmRlcigkb3JkZXIpewo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBQYXNzIGluIFNDQ2xpZW50IG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBUYWtlcyBhbiBhc3NvY2lhdGl2ZSBhcnJheSAkZGF0YSBjb250YWluaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgKiBSZXF1ZXN0IG9iamVjdCBwYXNzZWQgaW4gb24gY3JlYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9faW5pdF9fKCRyZXF1ZXN0LCAkb3JkZXJfbnVtYmVyKXsK</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
