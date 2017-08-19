@@ -312,6 +312,13 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/index.php" timestamp="1503115633242">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="15" />
@@ -324,6 +331,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/mentoras/config/database.yml" />
       <jump line="17" column="19" filename="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" />
       <jump line="0" column="2531" filename="$USER_HOME$/Downloads/scratch" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/Learning/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
