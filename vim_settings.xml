@@ -247,6 +247,13 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/classes/index.php" timestamp="1503150499860">
+        <mark key="x" line="15" column="4" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1503085650469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -342,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>panty</text>
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>panty</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>panty</text>
@@ -353,32 +360,32 @@
       <register name="0" type="4">
         <text>http://www.bvsoftware.com/bvc2004/schemas/2004/05/17/Catalog/ProductInventoryStatus</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JGhlbGxvID0gJ0hlbGxvIFdvcmxkISc7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDbGFzcyBLaXR0ZW4KICogCiAqLw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkaGVsbG87Cg==</text>
+        <text encoding="base64">JGhlbGxvID0gJ0hlbGxvIFdvcmxkISc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkaGVsbG87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNhbGwgPT09IHRydWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGwoKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGNhbGwgPT09IHRydWUpIHsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIC0+ZGF0YSAgICA9ICRkYXRhOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGNhbGwoKXsKICAgICAgICAvKioKICAgICAgICAgKiBJbXBsZW1lbnQgU09BUCByZXF1ZXN0IGhlcmUgdXNpbmcgcmVxdWVzdAogICAgICAgICAqLwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
