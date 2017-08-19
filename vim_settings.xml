@@ -150,7 +150,6 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Learning/Learning.iml" timestamp="1503117087767" />
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/run.php" timestamp="1502121379631">
         <mark key="[" line="12" column="128" />
         <mark key="]" line="15" column="0" />
@@ -247,12 +246,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Learning/classes/index.php" timestamp="1503150499860">
+      <file name="$USER_HOME$/IdeaProjects/Learning/classes/index.php" timestamp="1503159310196">
         <mark key="x" line="15" column="4" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="9" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1503085650469">
         <mark key="[" line="0" column="0" />
@@ -294,7 +293,6 @@
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Learning/Associate_Arrays/index.php" timestamp="1503117128160" />
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="2" column="53" />
