@@ -37,16 +37,17 @@
       <file name="/a.dummy" timestamp="1503006968476">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/Conditional/index.php" timestamp="1503118182611">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/HDDTest/lemon.py" timestamp="1501785511137">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCOrder.php" timestamp="1502121170059">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCOrders.php" timestamp="1502121224006">
         <mark key="[" line="8" column="0" />
@@ -115,6 +116,12 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/Associate_Arrays/Index.php" timestamp="1503117761548">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="93" column="72" />
@@ -130,22 +137,25 @@
       <file name="$USER_HOME$/Documents/PHP/API/src/ReviveIT/SellerCloudBundle/Classes/SCRequest.php" timestamp="1503006816607">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/Arrays/index.php" timestamp="1503117143820">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/SCRequestClient.php" timestamp="1502121388840">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/Learning.iml" timestamp="1503117087767" />
       <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/run.php" timestamp="1502121379631">
         <mark key="[" line="12" column="128" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/scservice.xml" timestamp="1502135684729">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2622" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mentoras/app/controllers/mentoras_controller.rb" timestamp="1501908616736">
         <mark key="[" line="14" column="16" />
@@ -188,11 +198,6 @@
         <mark key="]" line="87" column="18" />
         <mark key="^" line="87" column="18" />
         <mark key="." line="87" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" timestamp="1502121214398">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SellerCloud/composer.json" timestamp="1502305111318">
         <mark key="[" line="26" column="43" />
@@ -282,6 +287,7 @@
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Learning/Associate_Arrays/index.php" timestamp="1503117128160" />
       <file name="$USER_HOME$/ansible/book/provisioning/templates/nginx/default" timestamp="1498413558572">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="2" column="53" />
@@ -312,12 +318,12 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Learning/index.php" timestamp="1503115633242">
+      <file name="$USER_HOME$/IdeaProjects/Learning/index.php" timestamp="1503116568215">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bikes.py" timestamp="1501191486698">
         <mark key="[" line="104" column="15" />
@@ -332,55 +338,56 @@
       <jump line="17" column="19" filename="$USER_HOME$/IdeaProjects/SellerCloudPHP/scclient.php" />
       <jump line="0" column="2531" filename="$USER_HOME$/Downloads/scratch" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/Learning/index.php" />
+      <jump line="23" column="31" filename="$USER_HOME$/IdeaProjects/Learning/Arrays/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>panty</text>
       </register>
       <register name="-" type="4">
-        <text>$call = true</text>
+        <text>panty</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>panty</text>
       </register>
       <register name="0" type="4">
         <text>http://www.bvsoftware.com/bvc2004/schemas/2004/05/17/Catalog/ProductInventoryStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGhlbGxvID0gJ0hlbGxvIFdvcmxkISc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZWNobyAkaGVsbG87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNhbGwgPT09IHRydWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC0+ZGF0YSAgICA9ICRkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGwoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNhbGwoKXsKICAgICAgICAvKioKICAgICAgICAgKiBJbXBsZW1lbnQgU09BUCByZXF1ZXN0IGhlcmUgdXNpbmcgcmVxdWVzdAogICAgICAgICAqLwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGNhbGwgPT09IHRydWUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+ZGF0YSAgICA9ICRkYXRhOwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gaW5pdGlhdGUoJGRhdGEpewogICAgICAgIC8qKgogICAgICAgICAqIFBhc3MgaW4gZGF0YSB0byBtYWtlIHJlcXVlc3QKICAgICAgICAgKi8KICAgIA==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNhbGwoKXsKICAgICAgICAvKioKICAgICAgICAgKiBJbXBsZW1lbnQgU09BUCByZXF1ZXN0IGhlcmUgdXNpbmcgcmVxdWVzdAogICAgICAgICAqLwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC0+ZGF0YSAgICA9ICRkYXRhOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>panty</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>panty</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -391,6 +398,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>sqlite3</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>panty</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sqlite3/postgresql/g</entry>
