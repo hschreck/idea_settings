@@ -122,6 +122,12 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AutobahnExample/test.js" timestamp="1503240042103">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/bicycle_test.py" timestamp="1501192675486">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="93" column="72" />
@@ -192,11 +198,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutobahnExample/test.html" timestamp="1503239643405">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="51" />
-        <mark key="^" line="5" column="51" />
-        <mark key="." line="5" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/AutobahnExample/test.html" timestamp="1503239941768">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/machine.py" timestamp="1501174622499">
         <mark key="[" line="92" column="26" />
@@ -222,7 +228,7 @@
         <mark key="^" line="98" column="74" />
         <mark key="." line="98" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AutobahnExample/start.py" timestamp="1503239491094">
+      <file name="$USER_HOME$/IdeaProjects/AutobahnExample/start.py" timestamp="1503239818114">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -359,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function</text>
+        <text>hello</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
         <text>panty</text>
