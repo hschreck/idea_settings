@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern="smartctl" type="PLAIN_TEXT" />
+      <mapping pattern="scratch" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
