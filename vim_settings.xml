@@ -80,8 +80,8 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503326121624">
-        <mark key="[" line="4" column="140" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503346943332">
+        <mark key="[" line="18" column="22" />
         <mark key="]" line="4" column="140" />
         <mark key="^" line="4" column="182" />
         <mark key="." line="4" column="140" />
@@ -317,11 +317,11 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503320084474">
-        <mark key="[" line="1" column="119" />
-        <mark key="]" line="1" column="134" />
-        <mark key="^" line="1" column="134" />
-        <mark key="." line="1" column="134" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503347343380">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="86" />
+        <mark key="^" line="4" column="86" />
+        <mark key="." line="4" column="86" />
       </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501950004149">
         <mark key="[" line="3" column="0" />
