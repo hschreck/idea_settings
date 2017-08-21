@@ -80,8 +80,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503318835609">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503321557578">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="98" />
+        <mark key="^" line="4" column="98" />
+        <mark key="." line="4" column="98" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/queuequeue/queuequeue.py" timestamp="1501793051987">
         <mark key="[" line="0" column="21" />
@@ -277,7 +280,12 @@
       <file name="/Dummy.txt" timestamp="1503085650469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/defaults/main.yml" timestamp="1503319083966" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/defaults/main.yml" timestamp="1503319157884">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/mentoras/Gemfile" timestamp="1501908932020">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="10" column="5" />
@@ -297,11 +305,11 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503318793987">
-        <mark key="[" line="1" column="89" />
-        <mark key="]" line="1" column="88" />
-        <mark key="^" line="1" column="88" />
-        <mark key="." line="1" column="88" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503320084474">
+        <mark key="[" line="1" column="119" />
+        <mark key="]" line="1" column="134" />
+        <mark key="^" line="1" column="134" />
+        <mark key="." line="1" column="134" />
       </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501950004149">
         <mark key="[" line="3" column="0" />
@@ -375,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hello</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>panty</text>
