@@ -80,11 +80,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503323213566">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="98" />
-        <mark key="^" line="4" column="98" />
-        <mark key="." line="4" column="98" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503326121624">
+        <mark key="[" line="4" column="140" />
+        <mark key="]" line="4" column="140" />
+        <mark key="^" line="4" column="182" />
+        <mark key="." line="4" column="140" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/queuequeue/queuequeue.py" timestamp="1501793051987">
         <mark key="[" line="0" column="21" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>panty</text>
