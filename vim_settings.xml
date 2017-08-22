@@ -80,11 +80,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503356374432">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503433070661">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/switch_configs/core0.cnf" timestamp="1503327181380">
         <mark key="[" line="53" column="22" />
@@ -317,11 +317,12 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503426407897">
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" timestamp="1503432715838">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="78" />
-        <mark key="]" line="4" column="85" />
-        <mark key="^" line="4" column="85" />
-        <mark key="." line="4" column="85" />
+        <mark key="]" line="4" column="86" />
+        <mark key="^" line="4" column="86" />
+        <mark key="." line="4" column="86" />
       </file>
       <file name="$USER_HOME$/mentoras/app/views/mentoras/mentor.html.erb" timestamp="1501950004149">
         <mark key="[" line="3" column="0" />
@@ -392,16 +393,17 @@
       <jump line="0" column="2531" filename="$USER_HOME$/Downloads/scratch" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/Learning/index.php" />
       <jump line="23" column="31" filename="$USER_HOME$/IdeaProjects/Learning/Arrays/index.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/Monitoring_System/inventory/hosts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n0ns3kur</text>
+        <text>reviveit</text>
       </register>
       <register name="-" type="4">
-        <text>n0ns3kur</text>
+        <text>reviveit</text>
       </register>
       <register name="/" type="4">
-        <text>panty</text>
+        <text>reviveit</text>
       </register>
       <register name="0" type="4">
         <text>http://www.bvsoftware.com/bvc2004/schemas/2004/05/17/Catalog/ProductInventoryStatus</text>
@@ -438,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>panty</last-search>
+      <last-search>reviveit</last-search>
       <last-offset />
-      <last-pattern>panty</last-pattern>
+      <last-pattern>reviveit</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -452,6 +454,7 @@
         <entry>sqlite3</entry>
         <entry encoding="base64">IA==</entry>
         <entry>panty</entry>
+        <entry>reviveit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sqlite3/postgresql/g</entry>
