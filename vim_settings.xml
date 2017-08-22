@@ -80,11 +80,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503433070661">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/Monitoring_System/playbook.yml" timestamp="1503434373210">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="25" column="158" />
+        <mark key="^" line="25" column="158" />
+        <mark key="." line="25" column="158" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/switch_configs/core0.cnf" timestamp="1503327181380">
         <mark key="[" line="53" column="22" />
@@ -397,10 +397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reviveit</text>
+        <text>mysql</text>
       </register>
       <register name="-" type="4">
-        <text>reviveit</text>
+        <text>mysql</text>
       </register>
       <register name="/" type="4">
         <text>reviveit</text>
